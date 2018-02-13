@@ -1,0 +1,90 @@
+body{
+	width: 100%;
+	background-color: #8C3C1C;
+color:lightgreen;
+}
+
+
+h1{
+
+color: #FFFF00;	
+text-shadow: 5px 5px blue;
+background-color: black;
+border-style: solid green;
+margin-right: 10%;
+margin-left: 10%;
+border-radius: 20%;
+font-family: broadway,serif,arial;
+}
+
+
+a{
+	color: #FFF000;
+	background-color: green;
+	padding: 1%;
+	border-radius: 10px 30px;
+}
+
+
+a:hover{
+background-color: white;
+padding: 0.5%;
+color: green;
+}
+
+#ids{
+transform-style: preserve-3d;
+
+}
+
+img{
+	border-radius: 10px;
+	border-style: solid blue
+	 
+}
+
+#redh1{
+color: red;
+}
+
+
+#blueh1{
+	color: blue;
+}
+
+.adr{
+background-color: lightgreen;
+color: black;
+
+}
+
+.p1{
+	background-color: black;
+	color: yellow;
+}
+
+#grad {
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow); /* Standard syntax */
+}
+
+
+.ts{
+	text-shadow: 3px red;
+}
+
+#tra{-webkit-transform: rotateX(70deg); /* Safari */
+    transform: rotateX(150deg);
+}
+
+
+#ghs{
+animation-fill-mode: backwards;	
+}
+
+.adi{
+	margin-left: 100px
+}

@@ -1,0 +1,42 @@
+body{
+	font-size: 150%;
+	background-color: #ffa500;
+}
+.creat{
+	border-radius:16px;
+	font-variant: small-caps;
+	background-color: green;
+	color: white;
+	
+	
+	font-size: 1em;
+	text-align: center;
+
+}
+.orther{
+	border-radius:16px;
+
+}
+
+.first{
+border-radius:16px;
+margin: 10px auto;
+padding: 15px;
+font-size: 2em;
+background-color: #ffa5ff;
+}
+.second{
+	font-size: 1.5em;
+}
+.resub{
+	border-radius:16px;
+	width: 49%;
+}
+.logreg{
+	border-radius:16px;
+	padding: 15px auto;
+	font-size: 1.2em;
+}
+#regname{
+
+}
